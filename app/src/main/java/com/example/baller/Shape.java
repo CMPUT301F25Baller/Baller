@@ -1,0 +1,7 @@
+package com.example.baller;
+
+public abstract class Shape {
+    int x;
+    int y;
+
+}
