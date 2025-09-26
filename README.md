@@ -8,6 +8,6 @@
 
 4. Stevin Thomas [stevin1]
 
-4. Tanishq Sarkar [tanishq3]
-5.
-6.
+5. Tanishq Sarkar [tanishq3]
+6. Denzel Isichei [disichei]
+7.
