@@ -10,4 +10,4 @@
 
 4. Tanishq Sarkar [tanishq3]
 5. Denzel Isichei [disichei]
-6.
+6. Jonathan Wong [Tszshing]
